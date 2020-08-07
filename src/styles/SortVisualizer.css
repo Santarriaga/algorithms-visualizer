@@ -1,0 +1,13 @@
+.array-container {
+   text-align: center;
+}
+
+.array-bar {
+  width: 5px;
+  display:  inline-block;
+  margin: 0 1px;
+}
+
+.buttons{
+    text-align: center;
+}
